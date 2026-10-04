@@ -1,0 +1,6 @@
+{
+  "name": "NutriIA",
+  "description": "Contador de calorias inteligente com IA, reconhecimento visual de alimentos, macros, banco de dados, relatórios e painel admin.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

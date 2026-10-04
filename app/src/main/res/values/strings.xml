@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">NutriIA</string>
+    <string name="slogan">Controle inteligente com IA</string>
+    <string name="tab_diary">Diário</string>
+    <string name="tab_camera">Scanner IA</string>
+    <string name="tab_foods">Alimentos</string>
+    <string name="tab_reports">Relatórios</string>
+    <string name="tab_admin">Painel ADM</string>
+    <string name="meal_breakfast">Café da Manhã</string>
+    <string name="meal_lunch">Almoço</string>
+    <string name="meal_snack">Lanche da Tarde</string>
+    <string name="meal_dinner">Jantar</string>
+    <string name="share_whatsapp">Enviar pelo WhatsApp</string>
+    <string name="share_social">Compartilhar Progresso</string>
+    <string name="reminder_title">Lembrete NutriIA</string>
+    <string name="reminder_water">Hora de beber água! Mantenha a hidratação em dia.</string>
+    <string name="reminder_meal">Hora de registrar sua refeição no NutriIA!</string>
+</resources>
